@@ -1,0 +1,193 @@
+афганистан/Afghanistan
+албания/Albania
+алжир/Algeria
+андорра/Andorra
+ангола/Angola
+антигуа и барбуда/Antigua and Barbuda
+аргентина/Argentina
+армения/Armenia
+австралия/Australia
+австрия/Austria
+азербайджан/Azerbaijan
+багамские острова/Bahamas
+бахрейн/Bahrain
+бангладеш/Bangladesh
+барбадос/Barbados
+беларусь/Belarus
+бельгия/Belgium
+белиз/Belize
+бенин/Benin
+бутан/Bhutan
+боливия/Bolivia
+босния и герцеговина/Bosnia and Herzegovina
+ботсвана/Botswana
+бразилия/Brazil
+бруней/Brunei
+болгария/Bulgaria
+буркина-Фасо/Burkina Faso
+мьянма/Burma
+бирма/Burma
+бурунди/Burundi
+кабо-Верде/Cabo Verde
+камбоджа/Cambodia
+камерун/Cameroon
+канада/Canada
+центральная африка/Central African Republic
+чад/Chad
+чили/Chile
+китай/China
+колумбия/Colombia
+коморы/Comoros
+республика конго/Congo (Brazzaville)
+демократическая республика конго/Congo (Kinshasa)
+коста-Рика/Costa Rica
+кот-д'Ивуар/Cote d'Ivoire
+хорватия/Croatia
+куба/Cuba
+кипр/Cyprus
+чехия/Czechia
+дания/Denmark
+Diamond Princess/Diamond Princess
+джибути/Djibouti
+доминика/Dominica
+доминиканская республика/Dominican Republic
+эквадор/Ecuador
+египет/Egypt
+сальвадор/El Salvador
+экваториальная гвинея/Equatorial Guinea
+эритрея/Eritrea
+эстония/Estonia
+эсватини/Eswatini
+эфиопия/Ethiopia
+фиджи/Fiji
+финляндия/Finland
+франция/France
+габон/Gabon
+гамбия/Gambia
+грузия/Georgia
+германия/Germany
+гана/Ghana
+греция/Greece
+гренада/Grenada
+гватемала/Guatemala
+гвинея/Guinea
+гвинея-Бисау/Guinea-Bissau
+гайана/Guyana
+гаити/Haiti
+ватикан/Holy See
+гондурас/Honduras
+венгрия/Hungary
+исландия/Iceland
+индия/India
+индонезия/Indonesia
+иран/Iran
+ирак/Iraq
+ирландия/Ireland
+израиль/Israel
+италия/Italy
+ямайка/Jamaica
+япония/Japan
+иордания/Jordan
+казахстан/Kazakhstan
+кения/Kenya
+южная корея/Korea, South
+косово/Kosovo
+кувейт/Kuwait
+киргизия/Kyrgyzstan
+лаос/Laos
+латвия/Latvia
+ливан/Lebanon
+либерия/Liberia
+республика либерия/Liberia
+ливия/Libya
+лихтенштейн/Liechtenstein
+литва/Lithuania
+люксембург/Luxembourg
+мадагаскар/Madagascar
+малави/Malawi
+малайзия/Malaysia
+мальдивы/Maldives
+мали/Mali
+мальта/Malta
+исламская республика мавритания/Mauritania
+маврикий/Mauritius
+мексика/Mexico
+молдавия/Moldova
+монако/Monaco
+монголия/Mongolia
+черногория/Montenegro
+марокко/Morocco
+мозамбик/Mozambique
+MS Zaandam/MS Zaandam
+намибия/Namibia
+непал/Nepal
+нидерланды/Netherlands
+новая зеландия/New Zealand
+никарагуа/Nicaragua
+ниамей/Niger
+нигерия/Nigeria
+республика северная македония/North Macedonia
+македония/North Macedonia
+норвегия/Norway
+оман/Oman
+пакистан/Pakistan
+панама/Panama
+папуа-Новая Гвинея/Papua New Guinea
+парагвай/Paraguay
+перу/Peru
+филиппины/Philippines
+польша/Poland
+португалия/Portugal
+катар/Qatar
+румыния/Romania
+Россия/Russia
+руанда/Rwanda
+сент-Китс и Невис/Saint Kitts and Nevis
+сент-Люсия/Saint Lucia
+сент-винсент и Гренадины/Saint Vincent and the Grenadines
+сан-Марино/San Marino
+сан-Томе и принсипи/Sao Tome and Principe
+саудовская аравия/Saudi Arabia
+сенегал/Senegal
+сербия/Serbia
+сейшелы/Seychelles
+сьерра-Леоне/Sierra Leone
+сингапур/Singapore
+словакия/Slovakia
+словения/Slovenia
+сомали/Somalia
+федеративная республика сомали/Somalia
+южная африка/South Africa
+ЮАР/South Africa
+республика южный судан/South Sudan
+испания/Spain
+шри-Ланка/Sri Lanka
+судан/Sudan
+суринам/Suriname
+швеция/Sweden
+швейцария/Switzerland
+сирия/Syria
+тайвань/Taiwan*
+таджикистан/Tajikistan
+танзания/Tanzania
+тайланд/Thailand
+восточный тимор/Timor-Leste
+тимор-лесте/Timor-Leste
+того/Togo
+тринидад и Тобаго/Trinidad and Tobago
+тунис/Tunisia
+турция/Turkey
+уганда/Uganda
+украина/Ukraine
+ОАЭ/United Arab Emirates
+великобритания/United Kingdom
+уругвай/Uruguay
+сша/US
+узбекистан/Uzbekistan
+венесуэла/Venezuela
+вьетнам/Vietnam
+палестина/West Bank and Gaza
+западная/сахара Western Sahara
+йемен/Yemen
+замбия/Zambia
+зимбабве/Zimbabwe
